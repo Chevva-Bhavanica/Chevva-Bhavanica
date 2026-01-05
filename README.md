@@ -1,22 +1,26 @@
-## 👋 Hi, I'm Chevva Bhavanica Reddy
+##  Hi, I'm Chevva Bhavanica Reddy
 
 🎓 Computer Science Student  
 💻 Full-Stack & AIML Developer  
 📍 India  
+
 ---
-### 🚀 About Me
+
+###  About Me
 - Passionate about building full-stack web applications
 - Interested in AI/ML and recommendation systems
-- Strong foundation in DSA, DBMS, OS, CN, SE. 
+- Strong foundation in DSA, DBMS, OS, CN
+  
 ---
-### 🛠️ Skills
+
+###  Skills
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js
 - **Database:** MySQL
 - **AI/ML:** Python, Pandas
 - **Tools:** Git, GitHub, VS Code, Jenkins, Selenium, Nagios
 ---
-### 📂 Projects
+###  Projects
 🔹 Financial Planner with Recommendations options
 🔹 Shopping Cart Web Application
 🔹 AutoForm
