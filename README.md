@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi, I'm Chevva Bhavanica Reddy
 
-<!--
-**Chevva-Bhavanica/Chevva-Bhavanica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Full-Stack & AIML Developer  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- Passionate about building full-stack web applications
+- Interested in AI/ML and recommendation systems
+- Strong foundation in DSA, DBMS, OS, CN, SE. 
+
+---
+
+### 🛠️ Skills
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js
+- **Database:** MySQL
+- **AI/ML:** Python, Pandas
+- **Tools:** Git, GitHub, VS Code, Jenkins, Selenium, Nagios
+
+---
+
+### 📂 Featured Projects
+🔹 Financial Planner with Recommendations options
+🔹 Shopping Cart Web Application
+🔹 AutoForm
+
+
+
+---
+
+### 🌐 Portfolio Website
+🔗 https://Chevva-Bhavanica.github.io/portfolio/
+
+---
+
+### 📫 Contact
+- Email: bhavanica.chevva@gmail.com  
+
+
