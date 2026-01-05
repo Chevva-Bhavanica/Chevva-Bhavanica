@@ -32,7 +32,7 @@
 ---
 
 ### 🌐 Portfolio Website
-🔗 https://Chevva-Bhavanica.github.io/portfolio/
+🔗 https://chevva-bhavanica.github.io/Portfolio/
 
 ---
 
