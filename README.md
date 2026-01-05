@@ -17,9 +17,9 @@
 - **Tools:** Git, GitHub, VS Code, Jenkins, Selenium, Nagios
 ---
 ### 📂 Projects
--🔹 Financial Planner with Recommendations options
--🔹 Shopping Cart Web Application
--🔹 AutoForm
+🔹 Financial Planner with Recommendations options
+🔹 Shopping Cart Web Application
+🔹 AutoForm
 
 ---
 
